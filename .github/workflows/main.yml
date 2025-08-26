@@ -1,1 +1,7 @@
+name: "newproject"
 
+on: 
+ push:
+  branches:
+   -main
+   -feature/**
